@@ -1,0 +1,5 @@
+/* 按游戏实际用字裁剪的字体，全部 SIL Open Font License 1.1，见 ../fonts/README.md */
+@font-face{font-family:"XZ Serif";src:url(../fonts/serif.woff2) format("woff2");font-weight:400 700;font-display:swap}
+@font-face{font-family:"XZ Disp";src:url(../fonts/disp.woff2) format("woff2");font-weight:700 900;font-display:swap}
+@font-face{font-family:"XZ Kai";src:url(../fonts/kai.woff2) format("woff2");font-weight:400;font-display:swap}
+@font-face{font-family:"XZ Brush";src:url(../fonts/brush.woff2) format("woff2");font-weight:400;font-display:swap}

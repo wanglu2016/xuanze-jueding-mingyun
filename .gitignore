@@ -1,0 +1,9 @@
+node_modules/
+.DS_Store
+*.part.mp4
+tools/film/scenes/
+tools/film/*.wav
+tools/film/*.json
+tools/film/*.f32
+tools/film/*.ass
+__pycache__/
